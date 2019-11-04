@@ -603,3 +603,5 @@ And don't forget the first rule of BlockChain club:
 **"Do not use BlockChain unless absolutely necessary!"**
 
 *Hakan Eryargi (r a f t)*
+
+.

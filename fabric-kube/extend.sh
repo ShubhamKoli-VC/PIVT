@@ -18,7 +18,7 @@ cd $project_folder
 
 # extend certificates
 echo "-- extending certificates --"
-cryptogen extend --config ./crypto-config.yaml --input crypto-config
+./cryptogen extend --config ./crypto-config.yaml --input crypto-config
 
 # copy stuff hlf-kube folder (as helm charts cannot access files outside of chart folder)
 # see https://github.com/helm/helm/issues/3276#issuecomment-479117753
